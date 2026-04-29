@@ -2,6 +2,18 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-04-29 17:18 IR
+- 🗜️ [CNS_1.1.0_x64-setup.exe.zip](https://github.com/hamiddaran/sandbox/raw/main/dl/CNS_1.1.0_x64-setup.exe.zip) `634KB`
+
+- 🗜️ [CNS_1.1.0_x64-setup.exe.z01](https://github.com/hamiddaran/sandbox/raw/main/dl/CNS_1.1.0_x64-setup.exe.z01) `95.0MB`
+
+- 🗜️ [CNS_1.1.0_x64-setup.exe.z02](https://github.com/hamiddaran/sandbox/raw/main/dl/CNS_1.1.0_x64-setup.exe.z02) `95.0MB`
+
+- 🗜️ [CNS_1.1.0_x64-setup.exe.zip](https://github.com/hamiddaran/sandbox/raw/main/dl/CNS_1.1.0_x64-setup.exe.zip) `634KB`
+
+---
+
+
 ### 📅 2026-04-29 00:59 IR
 - 🗜️ [MasterDnsVPN_Client_Windows_AMD64.zip](https://github.com/hamiddaran/sandbox/raw/main/dl/MasterDnsVPN_Client_Windows_AMD64.zip) `4.0MB`
 
